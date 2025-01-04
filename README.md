@@ -57,7 +57,7 @@ License
 This project is licensed under the MIT License.
 
 Author
-Created by Sreerag For questions or contributions, contact me at [Your GitHub Profile Link].
+Created by Sreerag For questions or contributions, contact me at https://github.com/sudo-Gitman.
 
 Disclaimer: Use this script responsibly. Verify its behavior in a testing environment before deploying it in production.
 
